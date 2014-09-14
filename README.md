@@ -4,7 +4,7 @@ mh59
 Custom packing of hex-formatted hashes or mix of them
 
 
-Length can be set in range of 1 and string length.
+Length can be set in range of `1 and string length`.
 
 Some examples:
 ```php
